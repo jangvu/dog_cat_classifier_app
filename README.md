@@ -5,4 +5,4 @@ Model
   - I applied Data Augmentation by using ImageGenerator and tested some use cases to measure their performances.
   - The final model was trained by using VGG16 + Data Augementation.
 Web
-  - I applid Flask framework to develope web app.
+  - I applied Flask framework to develope web app.
